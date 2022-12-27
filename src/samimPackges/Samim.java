@@ -13,5 +13,7 @@ public class Samim {
 	
 	public static void printInfoTwo(){
        System.out.println("this is from remote reop");
-
+       System.out.println("recevid from the repo ");
+	}
+	
 }
