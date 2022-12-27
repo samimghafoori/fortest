@@ -10,5 +10,8 @@ public class Samim {
 	public static void printInfo() {
 		System.out.println("print the all info belongs to this class");
 	}
+	
+	public static void printInfoTwo(){
+       System.out.println("this is from remote reop");
 
 }
